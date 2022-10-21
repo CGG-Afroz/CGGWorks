@@ -1,0 +1,11 @@
+F:\MOHAMMED_AFROZ\Projects\Working_2022\Projects\PDF_Search\PDF_Search\bin\PDF_Search.dll.config
+F:\MOHAMMED_AFROZ\Projects\Working_2022\Projects\PDF_Search\PDF_Search\bin\PDF_Search.dll
+F:\MOHAMMED_AFROZ\Projects\Working_2022\Projects\PDF_Search\PDF_Search\bin\PDF_Search.pdb
+F:\MOHAMMED_AFROZ\Projects\Working_2022\Projects\PDF_Search\PDF_Search\bin\BouncyCastle.Crypto.dll
+F:\MOHAMMED_AFROZ\Projects\Working_2022\Projects\PDF_Search\PDF_Search\bin\itextsharp.dll
+F:\MOHAMMED_AFROZ\Projects\Working_2022\Projects\PDF_Search\PDF_Search\bin\itextsharp.xml
+F:\MOHAMMED_AFROZ\Projects\Working_2022\Projects\PDF_Search\PDF_Search\obj\Debug\PDF_Search.csprojAssemblyReference.cache
+F:\MOHAMMED_AFROZ\Projects\Working_2022\Projects\PDF_Search\PDF_Search\obj\Debug\PDF_Search.csproj.CoreCompileInputs.cache
+F:\MOHAMMED_AFROZ\Projects\Working_2022\Projects\PDF_Search\PDF_Search\obj\Debug\PDF_Search.csproj.CopyComplete
+F:\MOHAMMED_AFROZ\Projects\Working_2022\Projects\PDF_Search\PDF_Search\obj\Debug\PDF_Search.dll
+F:\MOHAMMED_AFROZ\Projects\Working_2022\Projects\PDF_Search\PDF_Search\obj\Debug\PDF_Search.pdb
